@@ -1,2 +1,2 @@
 # intro
-A introduction to our team
+An introduction to our team
